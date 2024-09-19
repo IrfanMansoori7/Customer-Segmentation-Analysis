@@ -1,0 +1,15 @@
+Project Title: Customer Segmentation Analysis
+Explanation:
+This project focuses on analyzing customer data to segment them into distinct groups based on their age, annual income, and spending score. By using K-Means clustering, we identified different customer segments that share similar characteristics.
+
+We performed the following steps:
+
+-Data Loading and Preprocessing: We loaded the dataset and prepared it for analysis by handling missing values and encoding categorical data.
+
+-Clustering: K-Means clustering was applied to group customers into segments. The optimal number of clusters was determined using the Elbow method.
+
+-Performance Evaluation: The Silhouette Score was calculated to measure the quality of the clusters, indicating how well-separated they are.
+
+-Customer Profiles: Detailed profiles for each customer segment were created to summarize their key characteristics, helping businesses tailor marketing strategies effectively.
+
+This analysis provides valuable insights into customer behavior, making it easier for businesses to target their marketing efforts and improve customer satisfaction.
